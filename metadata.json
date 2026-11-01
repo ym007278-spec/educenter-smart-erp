@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة السنتر التعليمي الذكي | EduCenter ERP",
+  "description": "منظومة إدارية ومالية وأمنية مؤتمتة بالكامل للمراكز والسناتر التعليمية (FastAPI + PostgreSQL + Next.js)، تشمل إدارة الطلاب والمدرسين، الحضور بالـ QR، الخزنة المركزية، نسب الأرباح والرواتب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
